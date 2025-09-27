@@ -1,4 +1,4 @@
-# AtividadeSelenium
+# AtividadeSelenium Marcos e Rayna
 
 # Projeto de Automação com Selenium - Unieuro
 
